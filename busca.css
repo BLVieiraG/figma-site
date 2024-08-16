@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #F276A5;
+}
+
+.top {
+    font-family: "Cairo", sans-serif;
+    background-color:   rgb(12, 192, 223);  
+    padding: 2%;
+}
+header{
+    background-color: #F276A5;
+}
+main{
+    margin-bottom: 35px;
+    padding: 35px;
+}
+
+#logo{
+    background-color:   rgb(12, 192, 223);  
+
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+#pesquisar{
+    background-color: white;
+padding: 20px;
+border-radius: 40px;
+width: 1200px;
+color: black;
+font-family: "Inria Serif", serif;
+font-size: 48px;
+}
+
+.fonte{
+font-size: 36px;
+font-family: "Cairo", sans-serif;
+}
+
+#ninho{
+align-items: center;
+justify-content: center;
+}
+.linha1{
+    
+    display: flex;
+    justify-content: space-between;
+    
+}
+.imagem{
+    margin-left: 55px;
+}
+#por4{
+margin-right: 135px;
+align-items: center;
+justify-content: center;
+}
+#morango{
+    margin-right: 31px;
+align-items: center;
+justify-content: center;
+}
+
+#formulario{
+ background-color: rgb(12, 192, 223);
+border-radius: 50px;
+margin-top: 40px;
+}

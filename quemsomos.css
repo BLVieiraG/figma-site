@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.top {
+    font-family: "Cairo", sans-serif;
+    display: flex;
+    font-size: 30px;
+    background-color: rgb(12, 192, 223);    
+    border: solid 4px;
+    
+}
+
+
+#logo{
+    background-color:   rgb(12, 192, 223);  
+ border: solid 1px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+
+
+#contato{
+    font-family: "Inria Serif", serif;
+    font-size: 70px;
+  color: #ffffff;
+  display: flex;
+  justify-content: left;
+margin-left: 35px;
+}
+
+div svg{
+width: 55px;
+
+
+}
+.icones{
+    height: 280px;
+    font-size: 45px;
+    display: flex;
+    justify-content: space-between;
+}
+#formulario{
+    margin-top: 90px;
+    margin-left: 19%;
+    background-color: rgb(12, 192, 223);
+    padding: 20px;
+    border-radius: 40px;
+    width: 1200px;
+    color: black;
+    font-family: "Inria Serif", serif;
+    font-size: 36px;
+}
+.formula{
+    font-family: "Inria Serif", serif;
+font-size: 16px;
+border-radius: 30px;
+}
+
+#mensagem{
+    width: 90%;
+    height: 130px;
+
+}
